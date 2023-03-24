@@ -1,0 +1,17 @@
+:root {
+  background: linear-gradient(15deg,rgba(247, 143, 183, 0.8), rgba(123, 141, 181, 0.8));
+  font-family: Verdana, light;
+}
+
+body {
+  margin: 23px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+
+
+
