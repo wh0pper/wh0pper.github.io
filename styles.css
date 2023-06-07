@@ -9,11 +9,10 @@ body {
 
 img {
   display: block;
+  max-width: 1200px;
   max-height: 800px;
-  max-width: max-content;
-  min-width: min-content;
-  width: 100%;
-  height: auto;
+  width: min-content;
+  height: min-content;
   margin: 0px 10px 10px 0px;
 }
 
@@ -21,13 +20,11 @@ img {
   display: flex;
   flex-direction: row;
   width: 100%;
-  justify-content: space-between;
   flex-wrap: wrap;
 }
 
 .image-row > * {
-  max-width: 340px;
-  border: 1px solid red;
+  max-width: 480px;
 }
 
 

@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     classname: "scripted-div"
   })
 
-  const newText = document.createTextNode("base js element")
+  const newText = document.createTextNode("warning: this content is scripted!")
 
   newDiv.appendChild(newText);
 
