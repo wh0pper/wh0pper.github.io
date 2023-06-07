@@ -4,12 +4,30 @@
 }
 
 body {
-  margin: 23px;
+  margin: 75px;
 }
 
 img {
+  display: block;
+  max-height: 800px;
+  max-width: max-content;
+  min-width: min-content;
   width: 100%;
   height: auto;
+  margin: 0px 10px 10px 0px;
+}
+
+.image-row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.image-row > * {
+  max-width: 340px;
+  border: 1px solid red;
 }
 
 
