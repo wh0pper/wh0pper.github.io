@@ -4,6 +4,7 @@
   font-family: Verdana, light;
   height: fit-content;
   min-height: 100vh;
+
 }
 
 body {
@@ -12,10 +13,12 @@ body {
 
 img {
   display: block;
+  box-sizing: border-box;
   max-width: 100%;
-  /* width: min-content;
-  height: min-content; */
-  margin: 0px 10px 10px 0px;
+  min-width: 200px;
+  width: min-content;
+  height: min-content;
+  padding: 0px 10px 10px 0px;
 }
 
 
@@ -37,7 +40,7 @@ img {
   flex-wrap: wrap;
 }
 
-.image-row > * {
+.row-item {
   display: flex;
   flex: 1;
 }
