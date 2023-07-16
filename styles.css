@@ -1,6 +1,9 @@
 :root {
   background: linear-gradient(15deg,rgba(247, 143, 183, 0.8), rgba(123, 141, 181, 0.8));
+  background-repeat: no-repeat;
   font-family: Verdana, light;
+  height: fit-content;
+  min-height: 100vh;
 }
 
 body {
@@ -39,12 +42,23 @@ img {
   flex: 1;
 }
 
+.sub-p {
+  display: none;
+  margin-left: 15px;
+}
+
 
 /* responsiveness */
 @media (max-width: 850px) {
   body {
     margin: 20px;
   }
+}
+
+
+
+.service-card:hover > * {
+  display: block;
 }
 
 
