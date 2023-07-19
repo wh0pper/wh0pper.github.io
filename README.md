@@ -6,5 +6,8 @@ what a perfect place to document process. I'm building this out as a simple show
 
 right now I have dumped all the pictures into this repo just to have them available, i plan to get more organized & strategic over time and probably implement a lightweight CMS so that content maintenance can be the simplest aspect here. Today I'm just getting this out the door with nice management of photos and basic mobile-friendly usage. It's very refreshing to build a simple html site after having gotten so deep into frameworks & libraries in my career.
 
+7/19
+Oops, getting caught up in perfectionism yet again. My primary meditation mantra lately has been "I am safe. I am satisfied. I am sufficient." Bringing that spirit here for greater acceptance of the current simplicity of this presentation of my skills. I haven't felt ready to share this site with anyone (irony being that it is live and the code is public on github), so today I'm moving past that. There is one glaring issue: it doesn't look right on mobile. I was using Chrome dev tools to simulate small screens when implementing basic responsiveness, but that has led to an inconsistency. As deployed and accessed on actual mobile devices my images are currently losing their aspect ratio, so I'm going to fix that and then begin distribution!!! I stay moving through challenges and setbacks. I do not make myself stuck.
+
 
 
