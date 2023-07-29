@@ -9,5 +9,8 @@ right now I have dumped all the pictures into this repo just to have them availa
 7/19
 Oops, getting caught up in perfectionism yet again. My primary meditation mantra lately has been "I am safe. I am satisfied. I am sufficient." Bringing that spirit here for greater acceptance of the current simplicity of this presentation of my skills. I haven't felt ready to share this site with anyone (irony being that it is live and the code is public on github), so today I'm moving past that. There is one glaring issue: it doesn't look right on mobile. I was using Chrome dev tools to simulate small screens when implementing basic responsiveness, but that has led to an inconsistency. As deployed and accessed on actual mobile devices my images are currently losing their aspect ratio, so I'm going to fix that and then begin distribution!!! I stay moving through challenges and setbacks. I do not make myself stuck.
 
+7/28
+now trying to make things more interactive without any javascript to brush up on some advanced CSS while keeping site implementation simple. I first went with a :hover pseudo-class to reveal elements by changing the display property, but realized that won't work for mobile. So now going to try working with :target and setting some anchor tags.
+
 
 

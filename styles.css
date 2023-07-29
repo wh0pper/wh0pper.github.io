@@ -20,6 +20,10 @@ img {
   padding: 0px 10px 10px 0px;
 }
 
+.unstyled-link {
+  color: black;
+  text-decoration: unset;
+}
 
 .video-container {
   position: relative;
@@ -58,8 +62,7 @@ img {
 }
 
 
-
-.service-card:hover > * {
+.sub-p:target {
   display: block;
 }
 
