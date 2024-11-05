@@ -16,7 +16,8 @@ img {
   box-sizing: border-box;
   max-width: 100%;
   min-width: 200px;
-  height: max-content;
+  height: auto;
+  max-height: max-content;
   padding: 0px 10px 10px 0px;
 }
 
